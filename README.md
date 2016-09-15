@@ -4,6 +4,8 @@ Run `composer install`
 
 .htaccess sets the PHP prepend/append files to setup and dump out the code coverage data into /tmp/cov/
 
+Make sure you have whitelisted all the class files you need in `src/cc_prepend.php`
+
 In the browser request:
 ```
 http://site.com/index.php?step=1
