@@ -1,0 +1,2 @@
+php_value auto_prepend_file "cc_prepend.php"
+php_value auto_append_file "cc_append.php"
