@@ -1,0 +1,11 @@
+{
+  "name" : "web-coverage",
+  "require" : {
+    "phpunit/php-code-coverage" : "^4",
+    "phpunit/phpcov" : "~3.1.0"
+  },
+  "repositories" : [ {
+    "type" : "composer",
+    "url" : "https://packagist.org/"
+  } ]
+}
